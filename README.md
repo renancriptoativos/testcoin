@@ -1,2 +1,2 @@
-# testcoin
+# bitcoin turmalina BTURM
 miner
